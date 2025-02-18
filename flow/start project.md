@@ -17,6 +17,8 @@ func main() {
 ```
 
 モジュールをインストールする。
+`go instal`などのコマンドは、カレントディレクトリを含むモジュールの範囲内でしか適用されない。
+外からやると、コマンドはエラーを吐くかも。
 
 ```sh
 go install example/user/hello
@@ -26,11 +28,16 @@ go install example/user/hello
 3. installs that binary as $HOME/go/bin/hello (or, under Windows, %USERPROFILE%\go\bin\hello.exe).
 
 ### 環境変数
-
 ```shell
 go env -w GOBIN=/somewhere/else/bin
 ```
 
 ```shell
 go env -u GOBIN
+```
+
+
+```shell
+export PATH=$PATH:$(dirname $(go list -f '{{.Target}}' .))
+hello
 ```
