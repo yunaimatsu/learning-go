@@ -44,3 +44,4 @@ hello
 
 - `dirname <filename>`はそのファイルが存在するディレクトリのパスを返す。
 - `$(<cmd>)`はコマンドの実行結果を返す。
+- go list -f '{{.Target}}' .
