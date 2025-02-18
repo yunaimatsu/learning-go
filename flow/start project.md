@@ -41,3 +41,6 @@ go env -u GOBIN
 export PATH=$PATH:$(dirname $(go list -f '{{.Target}}' .))
 hello
 ```
+
+- `dirname <filename>`はそのファイルが存在するディレクトリのパスを返す。
+- `$(<cmd>)`はコマンドの実行結果を返す。
