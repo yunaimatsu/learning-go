@@ -11,6 +11,8 @@
     - [ ] doc
     - [ ] src
     - [ ] solutions
+## Google
+[公式サイト](https://cs.opensource.google/go/go)
 ## Go公式のリポジトリを解読する。
 ## Goをメインに使用した有名なOSSを解読する。
 ## 関連する他の静的型付け言語を学習し、Go言語との差異をまとめる。
