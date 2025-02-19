@@ -3,6 +3,10 @@ go mod init example/user/hello
 ```
 
 ```sh
+go mod init github.com/spf13/cobra-example
+```
+
+```go
 module example/user/hello
 ```
 
