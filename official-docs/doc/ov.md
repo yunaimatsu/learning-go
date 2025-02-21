@@ -1,17 +1,23 @@
 ## Doc
-doc/install
-doc/install/source
+
+- doc/install
+- doc/install/source
 
 ---
 
-doc/code
+- doc/code
 
 ---
 
-doc/comment
+- doc/comment
 
 ---
 
+doc/articles/
+doc/articles/wiki/part1.go
+doc/articles/wiki/part2.go
+doc/articles/wiki/part3.go
+doc/articles/wiki/final.go
 doc/articles/wiki/
 doc/articles/go_command
 doc/articles/race_detector
@@ -132,14 +138,6 @@ doc/devel/weekly
 doc/devel/pre_go1
 doc/manage-install
 doc/security/vuln/cna
-
----
-
-doc/articles/
-doc/articles/wiki/part1.go
-doc/articles/wiki/part2.go
-doc/articles/wiki/part3.go
-doc/articles/wiki/final.go
 
 ---
 
