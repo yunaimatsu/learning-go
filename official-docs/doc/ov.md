@@ -113,69 +113,33 @@ doc/modules/managing-dependencies
 
 ---
 
-doc/codewalk/functions/
-doc/codewalk/markov/
-doc/codewalk/sharemem/
+## doc/codewalk/[]
 
----
+- functions
 
-doc/go1.24
-doc/go1.23
-doc/go1.22
-doc/go1.21
-doc/go1.20
-doc/go1.19
-doc/go1.18
-doc/go1.17_spec
-doc/go1.17
-doc/go1.16
-doc/go1.15
-doc/go1.14
-doc/go1.13
-doc/go1.12
-doc/go1.11
-doc/go1.10
-doc/go1.9
-doc/go1.8
-doc/go1.7
-doc/go1.6
-doc/go1.5
-doc/go1.4
-doc/go1.3
-doc/go1.2
-doc/go1.1
-doc/go1
-doc/go1compat
+- markov
 
----
+- sharemem
 
-doc/devel/weekly
-doc/devel/pre_go1
-doc/manage-install
-doc/security/vuln/cna
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=0&amp;hi=0
 
----
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=17&amp;hi=21
 
-doc/security/
-doc/effective_go
-doc/
-doc/devel/release
-doc/security/best-practices
-doc/security/vuln/
-doc/security/vuln/editor
-doc/security/vuln/database
-doc/security/policy
-doc/security/fuzz/
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=0&amp;hi=0
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=17&amp;hi=21
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=23&amp;hi=24
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=26&amp;hi=41
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=43&amp;hi=44
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=48&amp;hi=53
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=56&amp;hi=70
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=72&amp;hi=89
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=91&amp;hi=94
-doc/codewalk/?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=110&amp;hi=121
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=23&amp;hi=24
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=26&amp;hi=41
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=43&amp;hi=44
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=48&amp;hi=53
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=56&amp;hi=70
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=72&amp;hi=89
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=91&amp;hi=94
+
+?fileprint=/doc%2fcodewalk%2fpig.go&amp;lo=110&amp;hi=121
 doc/codewalk/?fileprint=/doc%2fcodewalk%2fmarkov.go&amp;lo=6&amp;hi=44
 doc/codewalk/?fileprint=/doc%2fcodewalk%2fmarkov.go&amp;lo=77&amp;hi=77
 doc/codewalk/?fileprint=/doc%2fcodewalk%2fmarkov.go&amp;lo=76&amp;hi=79
@@ -215,3 +179,63 @@ doc/codewalk/?fileprint=/doc%2fcodewalk%2furlpoll.go&amp;lo=36&amp;hi=36
 doc/codewalk/?fileprint=/doc%2fcodewalk%2furlpoll.go&amp;lo=37&amp;hi=37
 doc/codewalk/?fileprint=/doc%2fcodewalk%2furlpoll.go&amp;lo=38&amp;hi=38
 doc/codewalk/?fileprint=/doc%2fcodewalk%2furlpoll.go&amp;lo=39&amp;hi=48
+
+---
+
+## doc/security/[]
+
+- doc/security/
+
+- doc/security/best-practices
+
+- doc/security/vuln/
+
+- doc/security/vuln/editor
+
+- doc/security/vuln/database
+
+- doc/security/policy
+
+- doc/security/fuzz/
+
+- doc/security/vuln/cna
+
+doc/go1.24
+doc/go1.23
+doc/go1.22
+doc/go1.21
+doc/go1.20
+doc/go1.19
+doc/go1.18
+doc/go1.17_spec
+doc/go1.17
+doc/go1.16
+doc/go1.15
+doc/go1.14
+doc/go1.13
+doc/go1.12
+doc/go1.11
+doc/go1.10
+doc/go1.9
+doc/go1.8
+doc/go1.7
+doc/go1.6
+doc/go1.5
+doc/go1.4
+doc/go1.3
+doc/go1.2
+doc/go1.1
+doc/go1
+doc/go1compat
+
+---
+
+doc/devel/weekly
+doc/devel/pre_go1
+doc/manage-install
+
+---
+
+doc/effective_go
+doc/
+doc/devel/release
