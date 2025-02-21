@@ -55,22 +55,37 @@ doc/contribute
 
 ---
 
-doc/tutorial/
-doc/tutorial/call-module-code
-doc/tutorial/handle-errors
-doc/tutorial/random-greeting
-doc/tutorial/greetings-multiple-people
-doc/tutorial/add-a-test
-doc/tutorial/compile-install
-doc/tutorial/workspaces
-doc/tutorial/web-service-gin
-doc/tutorial/generics
-doc/tutorial/database-access
-doc/tutorial/fuzz
-doc/tutorial/getting-started
-doc/tutorial/create-module
-doc/tutorial/govulncheck
-doc/tutorial/govulncheck-ide
+## doc/tutorial/[]
+
+- call-module-code
+
+- handle-errors
+
+- random-greeting
+
+- greetings-multiple-people
+
+- add-a-test
+
+- compile-install
+
+- workspaces
+
+- web-service-gin
+
+- generics
+
+- database-access
+
+- fuzz
+
+- getting-started
+
+- create-module
+
+- govulncheck
+
+- govulncheck-ide
 
 ---
 
