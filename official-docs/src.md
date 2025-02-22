@@ -1,8 +1,13 @@
 ## Src
+
 src/
+
+src/runtime/
 src/runtime/runtime-gdb.py
-src/cmd/link/internal/ld/dwarf.go
 src/runtime/cgocall.go
+
+
+src/cmd/link/internal/ld/dwarf.go
 src/encoding/json/encode.go
 src/encoding/gob/doc.go
 src/fmt/fmt_test.go
@@ -43,7 +48,6 @@ src/path/
 src/plugin/
 src/reflect/
 src/regexp/
-src/runtime/
 src/slices/
 src/sort/
 src/strconv/
