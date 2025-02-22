@@ -1,4 +1,7 @@
 ## Blog
+
+ブログが上から順に書いてある。
+
 blog/
 blog/waza-talk
 blog/cgo
